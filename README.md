@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**andersongeng/andersongeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anderson, learning Software Development and starting my journey as a future Full Stack Developer.
 
-Here are some ideas to get you started:
+Currently, I'm focused on JavaScript and diving deeper into GitHub to improve my workflow and collaboration skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Skills
+- HTML, CSS
+- Git & GitHub
+- Responsive Web Design
+
+---
+
+### 📫 Connect with me
+💬 Let's connect on: https://www.linkedin.com/in/anderson-granado-b4716a168/
