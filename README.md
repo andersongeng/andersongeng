@@ -7,9 +7,14 @@ Currently, I'm focused on JavaScript and diving deeper into GitHub to improve my
 ---
 
 ### 🔧 Skills
-- HTML, CSS
+- HTML, CSS, JavaScript
 - Git & GitHub
-- Responsive Web Design
+- Responsive and Accesible Web Design
+- Figma
+- Python
+- Flask
+- APIs REST
+- SQL
 
 ---
 
