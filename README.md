@@ -1,22 +1,26 @@
-## Hi there! 👋
+## Hola, soy Anderson!
 
-I'm Anderson, learning Software Development and starting my journey as a future Full Stack Developer.
+# Actualmente estoy enfocado en el desarrollo backend y soy estudiante de ingenieria informatica.
+Especializado en el ecosistema Python y mi enfoque principal es el diseño y construcción de APIs REST robustas utilizando Django y Django REST Framework (DRF).
 
-Currently, I'm focused on JavaScript and diving deeper into GitHub to improve my workflow and collaboration skills.
+# Mi conocimiento
 
----
-
-### 🔧 Skills
-- HTML, CSS, JavaScript
-- Git & GitHub
-- Responsive and Accesible Web Design
-- Figma
+## Tecnologías
 - Python
-- Flask
-- APIs REST
-- SQL
+- Django, Django rest framework (DRF)
+- PostgreSQL
+- Docker
+- Git/Github
 
----
+## Arquitectura
+- Hexagonal
+- Por capas
+- MVC
 
-### 📫 Connect with me
-💬 Let's connect on: https://www.linkedin.com/in/anderson-granado-b4716a168/
+## Principios
+- SOLID
+- DRY
+- KISS
+- Clean Code
+
+Extra: Experiencia en despliegue de aplicaciones con Railway y Vercel
